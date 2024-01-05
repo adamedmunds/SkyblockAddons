@@ -531,7 +531,7 @@
     "transylvanian": {
       "loreName": "Transylvanian",
       "nbtName": "transylvanian",
-      "goodLevel": 5,
+      "goodLevel": 4,
       "maxLevel": 5
     },
     "triple-strike": {
