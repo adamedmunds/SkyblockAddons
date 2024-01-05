@@ -360,6 +360,12 @@
       "goodLevel": 5,
       "maxLevel": 6
     },
+    "prosperity": {
+      "loreName": "Prosperity",
+      "nbtName": "prosperity",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "protection": {
       "loreName": "Protection",
       "nbtName": "protection",
@@ -521,6 +527,12 @@
       "nbtName": "titan_killer",
       "goodLevel": 5,
       "maxLevel": 7
+    },
+    "transylvanian": {
+      "loreName": "Transylvanian",
+      "nbtName": "transylvanian",
+      "goodLevel": 5,
+      "maxLevel": 5
     },
     "triple-strike": {
       "loreName": "Triple-Strike",
