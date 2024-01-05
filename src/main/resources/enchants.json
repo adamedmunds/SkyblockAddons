@@ -108,6 +108,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "dedication": {
+      "loreName": "Dedication",
+      "nbtName": "dedication",
+      "goodLevel": 3,
+      "maxLevel": 4
+    },
     "depth strider": {
       "loreName": "Depth Strider",
       "nbtName": "depth_strider",
@@ -210,6 +216,12 @@
       "goodLevel": 5,
       "maxLevel": 7
     },
+    "green thumb": {
+      "loreName": "Green Thumb",
+      "nbtName": "green_thumb",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "growth": {
       "loreName": "Growth",
       "nbtName": "growth",
@@ -306,11 +318,23 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "pesterminator": {
+      "loreName": "Pesterminator",
+      "nbtName": "pesterminator",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "piercing": {
       "loreName": "Piercing",
       "nbtName": "piercing",
       "goodLevel": 1,
       "maxLevel": 1
+    },
+    "piscary": {
+      "loreName": "Piscary",
+      "nbtName": "piscary",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "power": {
       "loreName": "Power",
@@ -348,11 +372,23 @@
       "goodLevel": 2,
       "maxLevel": 2
     },
+    "quantum": {
+      "loreName": "Quantum",
+      "nbtName": "quantum",
+      "goodLevel": 4,
+      "maxLevel": 5
+    },
     "rainbow": {
       "loreName": "Rainbow",
       "nbtName": "rainbow",
       "goodLevel": 1,
       "maxLevel": 2
+    },
+    "reflection": {
+      "loreName": "Reflection",
+      "nbtName": "reflection",
+      "goodLevel": 4,
+      "maxLevel": 5
     },
     "rejuvenate": {
       "loreName": "Rejuvenate",
@@ -431,6 +467,12 @@
       "nbtName": "sugar_rush",
       "goodLevel": 0,
       "maxLevel": 3
+    },
+    "sunder": {
+      "loreName": "Sunder",
+      "nbtName": "sunder",
+      "goodLevel": 5,
+      "maxLevel": 6
     },
     "syphon": {
       "loreName": "Syphon",
@@ -567,7 +609,7 @@
     "vicious": {
       "loreName": "Vicious",
       "nbtName": "vicious",
-      "goodLevel": 0,
+      "goodLevel": 4,
       "maxLevel": 5
     }
   },
@@ -650,6 +692,12 @@
       "goodLevel": 0,
       "maxLevel": 5
     },
+    "refrigerate": {
+      "loreName": "Refrigerate",
+      "nbtName": "ultimate_refrigerate",
+      "goodLevel": 0,
+      "maxLevel": 5
+    },
     "rend": {
       "loreName": "Rend",
       "nbtName": "ultimate_rend",
@@ -666,6 +714,12 @@
       "loreName": "Swarm",
       "nbtName": "ultimate_swarm",
       "goodLevel": 0,
+      "maxLevel": 5
+    },
+    "the one": {
+      "loreName": "The One",
+      "nbtName": "ultimate_the_one",
+      "goodLevel": 4,
       "maxLevel": 5
     },
     "ultimate wise": {
